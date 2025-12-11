@@ -50,3 +50,5 @@ pip install -r requirements.txt
 ```bash
 uvicorn app.main:app --reload
 ```
+
+My Resume Link : https://drive.google.com/file/d/1CKxlobGNZO5twDOioXKZ_IlKpm4fKoTO/view?usp=drive_link
