@@ -21,7 +21,7 @@ And there are functions to help with the workflow and to create workflow Where,
 
 ## Folder Structure
 - `app/`: Contains the FastAPI application and API endpoints.
-- `core/`: Contains the `GraphEngine` logic and the `SummarizingAgent` workflow definitions.
+- `core/`: Contains the `GraphEngine(as graphengine.py)` logic and the `SummarizingAgent(as agent.py)` workflow definitions.
 - `requirements.txt`: List of dependencies.
 
 ## How to Run
